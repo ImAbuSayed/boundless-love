@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/boundless-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Boundless Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/boundless-love/) |
+| **Get License** | [Obtain a Music License for Boundless Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/boundless-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Leave the porch light burning, lock the front door
+> I’ve never been this hungry for a touch before
+> Trace a line along your shoulder in the dark
+> Right here is where the deeper feelings start
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
